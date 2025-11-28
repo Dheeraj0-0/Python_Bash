@@ -1,0 +1,4 @@
+#Write a program that searches for multiple occurrences of a value. It should print all the locations where that value is present. Print number of occurrences also. 
+#Write a program that searches a value from an array, elements of which are in descending order, using binary search .
+#Write a program that reads random values into an array. Perform bubble sort in such a way that if the array is sorted in less than n-1 passes, then the rest of the passes should be discarded.
+#Write a program that reads sales of MX number of salespersons in an array. Now display all the sales amounts in descending order. Use Selection sort logic.
